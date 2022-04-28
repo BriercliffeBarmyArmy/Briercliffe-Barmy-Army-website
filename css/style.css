@@ -37,8 +37,23 @@ body {
 	background-color: 808080;
 }
 a {
-   color: #0450E7;
+	color: #0450E7;
+	text-decoration: none;
+
 }
 .article *{
 	display:inline-block;
+}
+.row {
+	margin-left:-35px;
+	margin-right:-5px;
+	position: absolute;
+	bottom: 10px;
+
+}
+
+.twitter {
+	position: absolute;
+	right: 15px;
+	top: 32px;
 }
